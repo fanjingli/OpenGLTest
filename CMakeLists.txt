@@ -14,5 +14,5 @@ set(CMAKE_CXX_FLAGS_DEBUG "-g -Wall")
 #包含原程序,即把给定目录下的源程序复制给变量DIR_SRC
 #aux_source_directory (./ DIR_SRC)
 
-add_subdirectory(testMaster)
+add_subdirectory(testDemo)
 
